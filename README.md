@@ -5,6 +5,8 @@ Simplest Cold Wallet
 
 This program allows you to create cold wallets of bitcoins.
 
+NOTE: Download executable from https://github.com/MichelleStratcha/SimplestColdWallet/releases
+
 Creating cold wallets is the safest way to keep your bitcoins away from the hands of others.
 
 For added security, SimplestColdWallet can be run on a computer disconnected from the internet and the local network. After generating the wallet you can reconnect the computer.
